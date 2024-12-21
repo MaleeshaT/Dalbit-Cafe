@@ -142,6 +142,11 @@ small {
 Prevent 'sub' and 'sup' elements from affecting the line height in all browsers.
 */
 
+.swiper-container {
+  height: 400px; /* Adjust as needed */
+}
+
+
 sub,
 sup {
   font-size: 75%;
